@@ -1,6 +1,14 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=miyeon-yeon🤩%20&fontSize=60&fontAlign=70)
 
-### 🤩
+
+> ㅎㅎ
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+### Hi there 👋🤩
 
 <!--
 **miyeon396/miyeon396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
