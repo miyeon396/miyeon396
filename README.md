@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
+> 💡 Latest Posts 💡
   
   [2022/3/5 - [RabbitMQ] 한 프로젝트에서 두 개의 MQ Connection 정보 사용하고 싶을 때](https://cocococo331.tistory.com/8) <br> 
 [2022/3/1 - [GIT] 로컬 프로젝트를 GitHub Repository로 생성 & 연결](https://cocococo331.tistory.com/7) <br> 
