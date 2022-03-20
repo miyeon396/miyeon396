@@ -59,7 +59,8 @@ Here are some ideas to get you started:
   
 > 💡 Latest Posts 💡
   
-  [2022/3/15 - [AWS] Aurora RDS MySQL 5.7 to 8.0](https://cocococo331.tistory.com/9) <br> 
+  [2022/3/19 - [GIT] Clone으로 신규 생성 프로젝트 초기화](https://cocococo331.tistory.com/10) <br> 
+[2022/3/15 - [AWS] Aurora RDS MySQL 5.7 to 8.0](https://cocococo331.tistory.com/9) <br> 
 [2022/3/5 - [RabbitMQ] 한 프로젝트에서 두 개의 MQ Connection 정보 사용하고 싶을 때](https://cocococo331.tistory.com/8) <br> 
 [2022/3/1 - [GIT] 로컬 프로젝트를 GitHub Repository로 생성 & 연결](https://cocococo331.tistory.com/7) <br> 
 [2022/2/28 - [JAVA] char 정리](https://cocococo331.tistory.com/6) <br> 
