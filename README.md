@@ -59,7 +59,8 @@ Here are some ideas to get you started:
   
 > 💡 Latest Posts 💡
   
-  [2022/3/22 - [JAVA] String 중복제거 Stream](https://cocococo331.tistory.com/13) <br> 
+  [2022/3/29 - [GIT] Reset 명령어](https://cocococo331.tistory.com/14) <br> 
+[2022/3/22 - [JAVA] String 중복제거 Stream](https://cocococo331.tistory.com/13) <br> 
 [2022/3/22 - [JAVA] Case Format 변경 (UPPER_CAMEL, LOWER_HYPEN...)](https://cocococo331.tistory.com/12) <br> 
 [2022/3/22 - [JAVA] 대문자 앞에 공백 추가](https://cocococo331.tistory.com/11) <br> 
 [2022/3/19 - [GIT] Clone으로 신규 생성 프로젝트 초기화](https://cocococo331.tistory.com/10) <br> 
@@ -68,4 +69,3 @@ Here are some ideas to get you started:
 [2022/3/1 - [GIT] 로컬 프로젝트를 GitHub Repository로 생성 & 연결](https://cocococo331.tistory.com/7) <br> 
 [2022/2/28 - [JAVA] char 정리](https://cocococo331.tistory.com/6) <br> 
 [2022/2/24 - [코테] 2. 프로그래머스 - 신규 아이디 추천 Lv.1](https://cocococo331.tistory.com/4) <br> 
-[2022/2/23 - [코테] 1. 프로그래머스 - 신고 결과 받기](https://cocococo331.tistory.com/3) <br> 
