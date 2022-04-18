@@ -59,7 +59,8 @@ Here are some ideas to get you started:
   
 > 💡 Latest Posts 💡
   
-  [2022/4/16 - [CS] OOM의 원인과 아주 간단하게 OOM 발생 시키기](https://cocococo331.tistory.com/17) <br> 
+  [2022/4/17 - [Book] 소프트웨어 장인](https://cocococo331.tistory.com/18) <br> 
+[2022/4/16 - [CS] OOM의 원인과 아주 간단하게 OOM 발생 시키기](https://cocococo331.tistory.com/17) <br> 
 [2022/3/30 - [Spring] boot에서 Spring 버전 확인](https://cocococo331.tistory.com/15) <br> 
 [2022/3/29 - [GIT] Reset 명령어](https://cocococo331.tistory.com/14) <br> 
 [2022/3/22 - [JAVA] String 중복제거 Stream](https://cocococo331.tistory.com/13) <br> 
@@ -68,4 +69,3 @@ Here are some ideas to get you started:
 [2022/3/19 - [GIT] Clone으로 신규 생성 프로젝트 초기화](https://cocococo331.tistory.com/10) <br> 
 [2022/3/15 - [AWS] Aurora RDS MySQL 5.7 to 8.0](https://cocococo331.tistory.com/9) <br> 
 [2022/3/5 - [RabbitMQ] 한 프로젝트에서 두 개의 MQ Connection 정보 사용하고 싶을 때](https://cocococo331.tistory.com/8) <br> 
-[2022/3/1 - [GIT] 로컬 프로젝트를 GitHub Repository로 생성 & 연결](https://cocococo331.tistory.com/7) <br> 
