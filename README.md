@@ -59,7 +59,8 @@ Here are some ideas to get you started:
   
 > 💡 Latest Posts 💡
   
-  [2022/5/23 - [Java] List 나누기](https://cocococo331.tistory.com/23) <br> 
+  [2022/5/28 - [Git] Clone으로 생성한 프로젝트 초기화](https://cocococo331.tistory.com/24) <br> 
+[2022/5/23 - [Java] List 나누기](https://cocococo331.tistory.com/23) <br> 
 [2022/4/29 - [코테] 3. pg - 폰켓몬 Lv.1](https://cocococo331.tistory.com/21) <br> 
 [2022/4/29 - [Java] Null String Casting](https://cocococo331.tistory.com/20) <br> 
 [2022/4/26 - [Java] Map 제공 메서드들 정리](https://cocococo331.tistory.com/19) <br> 
@@ -68,4 +69,3 @@ Here are some ideas to get you started:
 [2022/3/30 - [Spring] boot에서 Spring 버전 확인](https://cocococo331.tistory.com/15) <br> 
 [2022/3/29 - [GIT] Reset 명령어](https://cocococo331.tistory.com/14) <br> 
 [2022/3/22 - [JAVA] String 중복제거 Stream](https://cocococo331.tistory.com/13) <br> 
-[2022/3/22 - [JAVA] Case Format 변경 (UPPER_CAMEL, LOWER_HYPEN...)](https://cocococo331.tistory.com/12) <br> 
