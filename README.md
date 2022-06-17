@@ -24,9 +24,9 @@ Yeon Miyeon
 
 > 🎖 Badges 🎖
 
-<a href="https://www.credly.com/badges/ede3beb6-1382-4174-a474-560e6eb65d29/public_url"><img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width=120px></a>
-<a href="https://www.credly.com/badges/5eac4b3c-6279-417b-8783-788398365400/public_url"><img src="https://images.credly.com/size/680x680/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" width=120px></a>
-<a href="https://www.credly.com/badges/6df2c2d7-ff5d-400d-a9c4-2176fb69333a/public_url"><img src="https://images.credly.com/size/680x680/images/8e968853-15af-4bbc-9d03-cf518971909c/AWS-SolArchitect-Professional-2020.png" width=120px></a>
+<a href="https://www.credly.com/badges/ede3beb6-1382-4174-a474-560e6eb65d29/public_url"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width=120px></a>
+<a href="https://www.credly.com/badges/5eac4b3c-6279-417b-8783-788398365400/public_url"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width=120px></a>
+<a href="https://www.credly.com/badges/6df2c2d7-ff5d-400d-a9c4-2176fb69333a/public_url"><img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width=120px></a>
 <a href="https://www.credential.net/d6849be4-ecd6-4cd7-b372-4a1f9e01fc1c"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21209568" width=120px></a>
 
 
