@@ -3,11 +3,9 @@ import feedparser
 miyeon_blog_rss_url = "https://cocococo331.tistory.com/rss"
 rss_feed = feedparser.parse(miyeon_blog_rss_url)
 
-MAX_POST_NUM = 10
+MAX_POST_NUM = 5
 
 latest_blog_post_list = ""
-
-MAX_POST_NUM = 10
 
 for idx, feed in enumerate(rss_feed['entries']):
   if idx > MAX_POST_NUM:
