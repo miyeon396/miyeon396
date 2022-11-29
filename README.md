@@ -70,9 +70,9 @@ Here are some ideas to get you started:
   
 > 💡 Latest Posts 💡
   
-  [2022/7/29 - [GCP] VM의 Disk, Memory 수집을 위한 Ops Agent 설치](https://cocococo331.tistory.com/27) <br> 
+  [2022/11/28 - ObjectMapper 사용 List Mapping](https://cocococo331.tistory.com/28) <br> 
+[2022/7/29 - [GCP] VM의 Disk, Memory 수집을 위한 Ops Agent 설치](https://cocococo331.tistory.com/27) <br> 
 [2022/7/25 - [TS] A fatal error has been detected by the Java Runtime Environment. Docker Alphine Image Crashed Exception](https://cocococo331.tistory.com/26) <br> 
 [2022/5/28 - [Git] Clone으로 생성한 프로젝트 초기화](https://cocococo331.tistory.com/24) <br> 
 [2022/5/23 - [Java] List 나누기](https://cocococo331.tistory.com/23) <br> 
 [2022/4/29 - [Java] Null String Casting](https://cocococo331.tistory.com/20) <br> 
-[2022/4/26 - [Java] Map 제공 메서드들 정리](https://cocococo331.tistory.com/19) <br> 
