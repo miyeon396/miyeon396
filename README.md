@@ -70,9 +70,9 @@ Here are some ideas to get you started:
   
 > 💡 Latest Posts 💡
   
-  [2022/12/1 - Effective Java Study](https://cocococo331.tistory.com/30) <br> 
+  [2022/12/9 - 221209 @JsonProperty](https://cocococo331.tistory.com/31) <br> 
+[2022/12/1 - Effective Java Study](https://cocococo331.tistory.com/30) <br> 
 [2022/12/1 - Select 쿼리 실행 중 Apparent connection leak detected](https://cocococo331.tistory.com/29) <br> 
 [2022/11/28 - ObjectMapper 사용 List Mapping](https://cocococo331.tistory.com/28) <br> 
 [2022/7/29 - [GCP] VM의 Disk, Memory 수집을 위한 Ops Agent 설치](https://cocococo331.tistory.com/27) <br> 
 [2022/7/25 - [TS] A fatal error has been detected by the Java Runtime Environment. Docker Alphine Image Crashed Exception](https://cocococo331.tistory.com/26) <br> 
-[2022/5/28 - [Git] Clone으로 생성한 프로젝트 초기화](https://cocococo331.tistory.com/24) <br> 
