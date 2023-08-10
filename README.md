@@ -70,9 +70,9 @@ Here are some ideas to get you started:
   
 > 💡 Latest Posts 💡
   
-  [2023/5/31 - 실행 지연 TimeUnit.Sleep](https://cocococo331.tistory.com/35) <br> 
+  [2023/8/9 - github repository 하나로 합치기](https://cocococo331.tistory.com/36) <br> 
+[2023/5/31 - 실행 지연 TimeUnit.Sleep](https://cocococo331.tistory.com/35) <br> 
 [2023/5/25 - [세미나] chat GPT 활용](https://cocococo331.tistory.com/34) <br> 
 [2023/5/10 - char to int](https://cocococo331.tistory.com/33) <br> 
 [2023/4/27 - google cloudresourcemanager, guava 버전 충돌 이슈 처리 - NoSuchMethodError directExecutor](https://cocococo331.tistory.com/32) <br> 
 [2022/12/9 - 221209 @JsonProperty](https://cocococo331.tistory.com/31) <br> 
-[2022/12/1 - Effective Java Study](https://cocococo331.tistory.com/30) <br> 
