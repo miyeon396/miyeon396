@@ -70,9 +70,9 @@ Here are some ideas to get you started:
   
 > 💡 Latest Posts 💡
   
-  [2023/12/14 - GitHub 명심!](https://cocococo331.tistory.com/40) <br> 
+  [2024/1/20 - 2023 회고 야야야](https://cocococo331.tistory.com/41) <br> 
+[2023/12/14 - GitHub 명심!](https://cocococo331.tistory.com/40) <br> 
 [2023/12/9 - 내 코드가 그렇게 이상한가요](https://cocococo331.tistory.com/39) <br> 
 [2023/11/30 - [JS] 브라우저 타임존 -> utc 변환](https://cocococo331.tistory.com/38) <br> 
 [2023/10/14 - 프로젝트 Tree 구조 추가](https://cocococo331.tistory.com/37) <br> 
 [2023/8/9 - github repository 하나로 합치기](https://cocococo331.tistory.com/36) <br> 
-[2023/5/31 - 실행 지연 TimeUnit.Sleep](https://cocococo331.tistory.com/35) <br> 
