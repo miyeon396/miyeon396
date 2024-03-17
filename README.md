@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   
 > 💡 Latest Posts 💡
   
-  [2024/3/14 - Resource Explorer Research](https://cocococo331.tistory.com/56) <br> 
+  [2024/3/14 - [AWS]Resource Explorer Research](https://cocococo331.tistory.com/56) <br> 
 [2024/1/20 - 2023 회고 야야야](https://cocococo331.tistory.com/41) <br> 
 [2023/12/14 - GitHub 명심!](https://cocococo331.tistory.com/40) <br> 
 [2023/12/9 - 내 코드가 그렇게 이상한가요](https://cocococo331.tistory.com/39) <br> 
