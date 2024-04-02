@@ -75,4 +75,4 @@ Here are some ideas to get you started:
 [2024/1/20 - 2023 회고 야야야](https://cocococo331.tistory.com/41) <br> 
 [2023/12/14 - GitHub 명심!](https://cocococo331.tistory.com/40) <br> 
 [2023/12/9 - 내 코드가 그렇게 이상한가요](https://cocococo331.tistory.com/39) <br> 
-[2023/11/30 - [JS] 브라우저 타임존 -> utc 변환](https://cocococo331.tistory.com/38) <br> 
+[2023/11/30 - [JS] 브라우저 타임존 -&amp;gt; utc 변환](https://cocococo331.tistory.com/38) <br> 
