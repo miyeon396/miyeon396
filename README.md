@@ -70,9 +70,9 @@ Here are some ideas to get you started:
   
 > 💡 Latest Posts 💡
   
-  [2024/4/12 - SSE 적용 (1) - SSE를 적용해보자 개념](https://cocococo331.tistory.com/62) <br> 
+  [2024/4/14 - Spring Boot 3.0 이상 QueryDSL 설정](https://cocococo331.tistory.com/64) <br> 
+[2024/4/12 - SSE 적용 (1) - SSE를 적용해보자 개념](https://cocococo331.tistory.com/62) <br> 
 [2024/4/4 - 크론 일부 스테이지 비활성화 처리](https://cocococo331.tistory.com/60) <br> 
 [2024/4/2 - 설계 교실](https://cocococo331.tistory.com/58) <br> 
 [2024/3/27 - 테스트 주도 개발 시작하기](https://cocococo331.tistory.com/57) <br> 
 [2024/3/14 - [AWS]Resource Explorer Research](https://cocococo331.tistory.com/56) <br> 
-[2024/1/20 - 2023 회고 야야야](https://cocococo331.tistory.com/41) <br> 
