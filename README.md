@@ -70,9 +70,9 @@ Here are some ideas to get you started:
   
 > 💡 Latest Posts 💡
   
-  [2024/6/11 - 롬복 빌더 기본값](https://cocococo331.tistory.com/67) <br> 
+  [2024/8/4 - Group Concat Query DSL](https://cocococo331.tistory.com/73) <br> 
+[2024/6/11 - 롬복 빌더 기본값](https://cocococo331.tistory.com/67) <br> 
 [2024/4/15 - H2 데이터 베이스 설치 및 초기 설정 방법](https://cocococo331.tistory.com/65) <br> 
 [2024/4/14 - Spring Boot 3.0 이상 QueryDSL 설정](https://cocococo331.tistory.com/64) <br> 
 [2024/4/12 - SSE 적용 (1) - SSE를 적용해보자 개념](https://cocococo331.tistory.com/62) <br> 
 [2024/4/4 - 크론 일부 스테이지 비활성화 처리](https://cocococo331.tistory.com/60) <br> 
-[2024/4/2 - 설계 교실](https://cocococo331.tistory.com/58) <br> 
