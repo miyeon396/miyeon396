@@ -26,8 +26,11 @@ Yeon Miyeon
 
 ### 🎖 Badges 🎖
 
+<a href="https://www.credly.com/earner/earned/share/0c204a87-63e9-450c-acb5-7e386ff309b5/public_url">
+  <img src="https://images.credly.com/size/680x680/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png" width=120px>
+</a>
 <a href="https://www.credly.com/badges/ede3beb6-1382-4174-a474-560e6eb65d29/public_url">
-  <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width=120px>
+  <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width=120px>
 </a>
 <a href="https://www.credly.com/badges/5eac4b3c-6279-417b-8783-788398365400/public_url">
   <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width=120px>
